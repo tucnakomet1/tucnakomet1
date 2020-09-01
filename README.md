@@ -13,11 +13,11 @@
 
 
 <br/>
-Hi, I'm a Python and Java developer from Czech Republic.<br/>I am the most experienced in GUI JavaFx and Python Tk applications and with web scraping scripts.
+Hi, I'm a Python and Java developer from Czech Republic.<br/>I'm the most experienced in GUI JavaFx and Python Tk applications and also with web scraping scripts.
 <br/></p></p>
 
 - 📫 How to reach me: **tucnakomet@gmail.com**
-- 🌱 I’m currently learning **Java & C#**
+- 🌱 I’m currently learning: **Java & C#**
 - ⚡ Fun fact: **I use Tab!**
 
 <br/>
