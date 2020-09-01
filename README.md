@@ -4,10 +4,11 @@
 <p align="left">
 <a href="https://dev.to/https://github.com/tucnakomet1/python-who-is-on-my-wifi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://github.com/tucnakomet1/python-who-is-on-my-wifi" height="30" width="40" /></a>
 <a href="https://twitter.com/karel velička" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karel velička" height="30" width="40" /></a>
+<a href="https://github.com/tucnakomet1" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="tucnakomet1" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/user:13425443" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:13425443" height="30" width="40" /></a>
 <a href="https://fb.com/karel veličkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karel veličkka" height="30" width="40" /></a>
 <a href="https://instagram.com/karelvelicka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karelvelicka" height="30" width="40" /></a>
-<a href="https://github.com/tucnakomet1" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="tucnakomet1" height="30" width="30" /></a>
+<a href="https://www.fiverr.com/tucnakomet" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/fiverr.svg" alt="tucnakomet" height="30" width="40" /></a>
 <a><img align="right" src="https://komarev.com/ghpvc/?username=tucnakomet1" alt="tucnakomet1" /> </a>
 </p>
 
