@@ -7,6 +7,9 @@
 <a href="https://www.facebook.com/karel.velicka.3" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/2111/2111398.svg" alt="karel velička" height="30" width="40" /></a>
 <a href="https://instagram.com/karelvelicka" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/1384/1384063.svg" alt="karelvelicka" height="30" width="30" /></a>
 <a href="https://www.fiverr.com/tucnakomet" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="tucnakomet" height="30" width="30" /></a>
+<a href="https://www.freelancer.com/u/tucnakomet" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="tucnakomet" height="30" width="30" /></a>
+<a href="https://www.upwork.com/freelancers/~01807f125de67dcd5e" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/upwork-icon.png" alt="tucnakomet" height="30" width="30" /></a>
+<a href="https://www.guru.com/freelancers/karel-velicka" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/N8rJkIvVMstzS8FTuo-b7ak9pzinnz_HwZA98kg6WAkeVAu83fH_p_ghoTg4QbXSNZmCIP8KuhVVfZx93gGM9Yiw-ndHJPruk9pfAJtKj61vcz69yuDJVlnz0HMO0mnzZAJg" alt="tucnakomet" height="30" width="30" /></a>
 <a><img align="right" src="https://komarev.com/ghpvc/?username=tucnakomet1" alt="tucnakomet1" /> </a>
 </p>
 
@@ -31,4 +34,3 @@ Hi, I'm a Python and Java developer from Czech Republic.<br/>I'm the most experi
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true" alt="tucnakomet1" /></p>
-
