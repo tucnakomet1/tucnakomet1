@@ -9,7 +9,7 @@
 <a href="https://www.fiverr.com/tucnakomet" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="tucnakomet" height="30" width="30" /></a>
 <a href="https://www.freelancer.com/u/tucnakomet" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="tucnakomet" height="30" width="30" /></a>
 <a href="https://www.upwork.com/freelancers/~01807f125de67dcd5e" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/upwork-icon.png" alt="tucnakomet" height="30" width="30" /></a>
-<a href="https://www.guru.com/freelancers/karel-velicka" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/N8rJkIvVMstzS8FTuo-b7ak9pzinnz_HwZA98kg6WAkeVAu83fH_p_ghoTg4QbXSNZmCIP8KuhVVfZx93gGM9Yiw-ndHJPruk9pfAJtKj61vcz69yuDJVlnz0HMO0mnzZAJg" alt="tucnakomet" height="30" width="30" /></a>
+<a href="https://www.guru.com/freelancers/karel-velicka" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/DIqmre5vxQgdsy6wHl7yrkNUTDJHGKWTp1QO49ImrKwiw4tc8GZRwli8XJETvcKIJCKG1zfXqzUc1s86Nrzl_UgDdp-457L4J6FrECv2E0-MvtNjWd2p13T60RYYqiqseOXW" alt="tucnakomet" height="30" width="30" /></a>
 <a><img align="right" src="https://komarev.com/ghpvc/?username=tucnakomet1" alt="tucnakomet1" /> </a>
 </p>
 
