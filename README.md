@@ -18,6 +18,7 @@
 Hi, I'm a Python and Java developer from Czech Republic.<br/>I'm the most experienced in GUI JavaFx and Python Tk applications and also with web scraping scripts.
 <br/></p></p>
 
+- 🔭 I’m currently working on [Who-Is-On-My-Wifi (version 1.2.0)](https://github.com/tucnakomet1/Python-Who-Is-On-My-WiFi)
 - 📫 How to reach me: **tucnakomet@gmail.com**
 - 🌱 I’m currently learning: **Java & C#**
 - ⚡ Fun fact: **I use Tab!**
@@ -30,7 +31,5 @@ Hi, I'm a Python and Java developer from Czech Republic.<br/>I'm the most experi
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucnakomet1&layout=compact&hide=html" alt="tucnakomet1" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&hide_border=true&theme=radical" alt="tucnakomet1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&hide_border=false&theme=radical" alt="tucnakomet1" /></p>
