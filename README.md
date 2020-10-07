@@ -33,4 +33,4 @@ Hi, I'm a Python and Java developer from Czech Republic.<br/>I'm the most experi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucnakomet1&layout=compact&hide=html" alt="tucnakomet1" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true" alt="tucnakomet1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&hide_border=true&theme=radical" alt="tucnakomet1" /></p>
