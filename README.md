@@ -18,7 +18,7 @@
 Hi, I'm a Python and Java developer from Czech Republic.<br/>I'm the most experienced in GUI JavaFx and Python Tk applications and also with web scraping scripts.
 <br/></p></p>
 
-- 🔭 I’m currently working on [Who-Is-On-My-Wifi](https://github.com/tucnakomet1/Python-Who-Is-On-My-WiFi)
+- 🔭 I’m currently working on Linux PowerToys
 - 📫 How to reach me: **tucnakomet@gmail.com**
 - 🌱 I’m currently learning: **Java & C#**
 - ⚡ Fun fact: **I use Tab!**
