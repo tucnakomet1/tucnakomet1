@@ -25,6 +25,7 @@ Hi, I'm a Python and Java developer from Czech Republic.<br/>I'm the most experi
 **Languages and Tools:**<br/>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></p>
