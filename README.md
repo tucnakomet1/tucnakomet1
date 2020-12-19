@@ -15,7 +15,7 @@
 Hi, I'm a Python and Java developer from Czech Republic.<br/>
 <br/></p></p>
 
-- 🔭 I’m currently working on **Linux PowerToys**
+- 🔭 I’m currently working on **Personal project**
 - 📫 How to reach me: **tucnakomet@gmail.com**
 - 🌱 I’m currently learning: **Java & C#**
 - ⚡ Fun fact: **I use Tab!**
