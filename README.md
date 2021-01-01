@@ -15,6 +15,15 @@
 Hi, I'm a Python and Java developer from Czech Republic.<br/>
 <br/></p></p>
 
+```java
+class WhatsUp {
+  public static void main(String[] args) {
+    System.out.println(" What's up?! "); 
+  }
+}
+
+```
+
 - 🔭 I’m currently working on **Personal project**
 - 📫 How to reach me: **tucnakomet@gmail.com**
 - 🌱 I’m currently learning: **Java & C#**
