@@ -24,7 +24,7 @@ class WhatsUp {
 
 ```
 
-- 🔭 I’m currently working on **Personal project**
+- 🔭 I’m currently working on <a href="https://github.com/tucnakomet1/Python-Who-Is-On-My-WiFi">Who-Is-On-My-WiFi version 1.3</a>
 - 📫 How to reach me: **tucnakomet@gmail.com**
 - 🌱 I’m currently learning: **Java & C#**
 - ⚡ Fun fact: **I use Tab!**
@@ -32,11 +32,14 @@ class WhatsUp {
 <br/>
 
 **Languages and Tools:**<br/>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></p>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&hide_border=false&theme=radical" alt="tucnakomet1" /></p>
