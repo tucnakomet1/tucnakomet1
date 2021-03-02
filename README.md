@@ -12,7 +12,7 @@
 
 
 <br/>
-Hi, I'm a Python and Java developer from Czech Republic.<br/>
+Hi, my name is Karel Velička and I'm a Python & Java developer from Czech Republic.<br/>
 <br/></p></p>
 
 ```java
@@ -42,4 +42,8 @@ class WhatsUp {
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&hide_border=false&theme=radical" alt="tucnakomet1" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucnakomet1&layout=compact&theme=tokyonight)](https://github.com/tucnakomet1/)
+
+**Top Projects:**<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tucnakomet1&repo=Python-Who-Is-On-My-WiFi&theme=tokyonight)](https://github.com/tucnakomet1/Python-Who-Is-On-My-WiFi) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tucnakomet1&repo=Image-Of-The-Day&theme=tokyonight)](https://github.com/tucnakomet1/Image-Of-The-Day)
+
