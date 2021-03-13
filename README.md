@@ -24,9 +24,9 @@ class WhatsUp {
 
 ```
 
-- 🔭 I’m currently working on <a href="https://github.com/tucnakomet1/Python-Who-Is-On-My-WiFi">Who-Is-On-My-WiFi version 1.3</a>
+- 🔭 I’m currently working on: **Personal C# project.**
 - 📫 How to reach me: **tucnakomet@gmail.com**
-- 🌱 I’m currently learning: **Java & C#**
+- 🌱 I’m currently learning: **Java, C# & C**
 - ⚡ Fun fact: **I use Tab!**
 
 <br/>
