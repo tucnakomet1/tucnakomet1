@@ -13,6 +13,7 @@
 
 <br/>
 Hi, my name is Karel Velička and I'm a Python & Java developer from Czech Republic.<br/>
+I am Linux & Open Source enthusiast and I really blindly believe in decentralization (maybe naively, maybe not, who knows... 😏 :feelsgood: ).
 <br/></p></p>
 
 ```java
@@ -24,7 +25,7 @@ class WhatsUp {
 
 ```
 
-- 🔭 I’m currently working on: **Personal C# project.**
+- 🔭 I’m currently working on: **Personal Java project.**
 - 📫 How to reach me: **tucnakomet@gmail.com**
 - 🌱 I’m currently learning: **Java, C# & C**
 - ⚡ Fun fact: **I use Tab!**
