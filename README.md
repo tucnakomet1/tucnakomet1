@@ -34,5 +34,5 @@ class WhatsUp {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucnakomet1&layout=compact&theme=tokyonight)](https://github.com/tucnakomet1/)
 
 **Top Projects:**<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tucnakomet1&repo=Python-Who-Is-On-My-WiFi&theme=tokyonight)](https://github.com/tucnakomet1/Python-Who-Is-On-My-WiFi) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tucnakomet1&repo=Image-Of-The-Day&theme=tokyonight)](https://github.com/tucnakomet1/Image-Of-The-Day)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tucnakomet1&repo=Python-Who-Is-On-My-WiFi&theme=tokyonight)](https://github.com/tucnakomet1/Python-Who-Is-On-My-WiFi)
 
