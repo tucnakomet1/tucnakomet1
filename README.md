@@ -1,10 +1,3 @@
-<h1 align="center">Hello 👋</a></h1>
-
-<br/>
-Hi, I'm a developer from Czech Republic.<br/>
-I am Linux & Open Source enthusiast and I blindly believe in decentralization (maybe naively, maybe not, who knows... 😏 :feelsgood: ).
-<br/></p></p>
-
 ```java
 class WhatsUp {
   public static void main(String[] args) {
@@ -13,7 +6,6 @@ class WhatsUp {
 }
 
 ```
-
 <br/>
 
 **Languages and Tools:**<br/>
@@ -28,5 +20,4 @@ class WhatsUp {
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucnakomet1&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucnakomet1&layout=compact&theme=tokyonight)](https://github.com/tucnakomet1/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucnakomet1&layout=compact&theme=tokyonight)](https://github.com/tucnakomet1/)
